@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: so2-MichelH7cker
+Upstream-Contact: MichelH7cker <michel.hecker@usp.br>
+Source: https://github.com/courselab/so2-MichelH7cker.git
+
+Files: */.dist
+Copyright: MichelH7cker <michel.hecker@usp.br>
+License: CC0-1.0
+
