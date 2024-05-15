@@ -21,13 +21,7 @@
  Overview
  ------------------------------
 
- <!-- Delete this comment:
-
-   * Extend this content with information about your awesome project.
-
-   * See .tools/readme.md for detailed instructions.
-
- -->
+The hw project was implemented on https://github.com/courselab/so2-ms-erik
 
  Licensing
  -----------------------------
