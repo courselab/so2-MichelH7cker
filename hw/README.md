@@ -1,9 +1,10 @@
-#    SPDX-FileCopyrightText: 2024 MichelH7cker
+#    SPDX-FileCopyrightText: 2024 ms-erik
 #   
 #    SPDX-License-Identifier: GPL-3.0-or-later
 #
 #  This file is a derivative work from SYSeg (https://gitlab.com/monaco/syseg)
 #  and contains modifications carried out by the following author(s):
+#  ms-erik <erikmelges@usp.br>
 #  MichelH7cker <michel.hecker@usp.br>
 
  This is free software distributed under the terms of the GNU General Public 
@@ -21,13 +22,9 @@
  Overview
  ------------------------------
 
- <!-- Delete this comment:
+In this exercise, we implemented a Bare Metal Hello World program, developing an assembler in the C language that takes a .S file as input and produces a flat binary output.
 
-   * Extend this content with information about your awesome project.
-
-   * See .tools/readme.md for detailed instructions.
-
- -->
+For the purpose of comparison, we compared the output of hw.bin with eg.bin, an example in the professor's repository, and found them to be identical. Even the disassembly of hw.bin matched with hw.S, and the emulator worked perfectly.
 
  Licensing
  -----------------------------

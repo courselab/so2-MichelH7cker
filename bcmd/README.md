@@ -1,9 +1,10 @@
-#    SPDX-FileCopyrightText: 2024 MichelH7cker
+#    SPDX-FileCopyrightText: 2024 ms-erik
 #   
 #    SPDX-License-Identifier: GPL-3.0-or-later
 #
 #  This file is a derivative work from SYSeg (https://gitlab.com/monaco/syseg)
 #  and contains modifications carried out by the following author(s):
+#  ms-erik <erikmelges@usp.br>
 #  MichelH7cker <michel.hecker@usp.br>
 
  This is free software distributed under the terms of the GNU General Public 
@@ -21,13 +22,7 @@
  Overview
  ------------------------------
 
- <!-- Delete this comment:
-
-   * Extend this content with information about your awesome project.
-
-   * See .tools/readme.md for detailed instructions.
-
- -->
+In this project we implemented a strcpy function that fits within the 512-byte sector, suitable for loading by the BIOS legacy boot process. This implementation addresses the need for the efficient string manipulation within the context of legacy hardware environmnets.
 
  Licensing
  -----------------------------
@@ -39,5 +34,4 @@
  Third-party source files distributed along with SYSeg are made covered by 
  their respective licenses, as annotated in each individual file.
 
- See the terms of each license under the directory LICENSES. 
-
+ See the terms of each license under the directory LICENSES.
