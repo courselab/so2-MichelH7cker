@@ -1,11 +1,11 @@
-#    SPDX-FileCopyrightText: 2024 ms-erik
+#    SPDX-FileCopyrightText: 2024 MichelH7cker 
 #   
 #    SPDX-License-Identifier: GPL-3.0-or-later
 #
 #  This file is a derivative work from SYSeg (https://gitlab.com/monaco/syseg)
 #  and contains modifications carried out by the following author(s):
-#  ms-erik <erikmelges@usp.br>
 #  MichelH7cker <michel.hecker@usp.br>
+#  ms-erik <erikmelges@usp.br>
 
  This is free software distributed under the terms of the GNU General Public 
  License version 3 of the license or, at your discretion, any later version. 
